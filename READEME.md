@@ -31,10 +31,31 @@ Key triggers:
 
 ______________________________________________________________________________________________
 
-## Technology used
+## Technologies Used
+* Python
+* Pandas (for handling benchmarks)
+* Streamlit (for creating the interactive web app)
 
-Python (Pandas, Streamlit).
 
+______________________________________________________________________________________________
+
+
+Technologies Used
+* Python
+* Pandas (for handling benchmarks)
+* Streamlit (for creating the interactive web app)
+
+______________________________________________________________________________________________
+
+## How to Run this Project Locally
+1.  Clone the repository:
+    `git clone https://github.com/aidairmagallanez22/Digital-Diagnosis-Framework.git`
+2.  Navigate to the folder:
+    `cd Digital-Diagnosis-Framework`
+3.  Install the dependencies:
+    `pip install -r requirements.txt`
+4.  Run the app:
+    `streamlit run app.py`
 
 ______________________________________________________________________________________________
 
@@ -44,5 +65,6 @@ ________________________________________________________________________________
 * Develop and refine the calculations to obtain a better result.
 
 * Develop and improve the temporary interface made with Streamlit.
+
 
 
