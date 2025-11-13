@@ -1,6 +1,6 @@
 ## Business Intelligence Project: Digitalization Diagnosis Framework
 
-![Demo of the calculator](https://imgur.com/a/UrIWCv1) 
+![Demo of the calculator] (https://imgur.com/a/UrIWCv1) 
 
 ### Problem
 
@@ -42,4 +42,5 @@ ________________________________________________________________________________
 
 * Add the Restaurants and Services modules.
 * Develop and refine the calculations to obtain a better result.
+
 * Develop and improve the temporary interface made with Streamlit.
