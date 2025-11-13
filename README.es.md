@@ -2,6 +2,8 @@
 
 [Demo de la calculadora](https://imgur.com/a/UrIWCv1) 
 
+[Demo en Vivo](https://digital-diagnosis-framework-grz59zhqhkpgakwf923gja.streamlit.app/)
+
 
 ### Problema
 
@@ -62,5 +64,6 @@ ________________________________________________________________________________
 - Añadir los módulos de Restaurantes y Servicios.
 - Desarrollar y pulir los cálculos para obtener un mejor resultado.
 - Desarrollar y mejorar la interfaz temporal hecha con Streamlit.
+
 
 
