@@ -38,7 +38,22 @@ ________________________________________________________________________________
 
 ## Tecnología usada
 
-Python (Pandas, Streamlit)
+Python
+* Pandas (para el manejo de los benchmarks)
+* Streamlit (para la creación de la app web interactiva)
+
+______________________________________________________________________________________
+
+## Ejecutar este Proyecto Localmente
+
+1.  Clona el repositorio:
+    `git clone https://github.com/aidairmagallanez22/Digital-Diagnosis-Framework.git`
+2.  Navega a la carpeta:
+    `cd Digital-Diagnosis-Framework`
+3.  Instala las dependencias:
+    `pip install -r requirements.txt`
+4.  Ejecuta la app:
+    `streamlit run app.py`
 
 
 ______________________________________________________________________________________
@@ -46,5 +61,5 @@ ________________________________________________________________________________
 
 - Añadir los módulos de Restaurantes y Servicios.
 - Desarrollar y pulir los cálculos para obtener un mejor resultado.
-
 - Desarrollar y mejorar la interfaz temporal hecha con Streamlit.
+
