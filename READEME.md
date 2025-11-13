@@ -1,6 +1,7 @@
 ## Business Intelligence Project: Digitalization Diagnosis Framework
 
 [Demo of the calculator](https://imgur.com/a/UrIWCv1) 
+[Demo Live](https://digital-diagnosis-framework-grz59zhqhkpgakwf923gja.streamlit.app/)
 
 ### Problem
 
@@ -65,6 +66,7 @@ ________________________________________________________________________________
 * Develop and refine the calculations to obtain a better result.
 
 * Develop and improve the temporary interface made with Streamlit.
+
 
 
 
