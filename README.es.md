@@ -26,11 +26,11 @@ Actualmente el proyecto solo considera datos y condiciones dadas en empresas del
 
 Principales disparadores:
     
-    - Disparador de eficiencia: calcula el costo de hacer las tareas de manera manual y el costo de contratar un software (en este caso un sistema POS).
+- Disparador de eficiencia: calcula el costo de hacer las tareas de manera manual y el costo de contratar un software (en este caso un sistema POS).
 
-    - Disparador de riesgo: calcula el costo del software y la multa por pagar en caso de cometer un error al generar CFDIs, teniendo en cuenta la probabilidad de error.
+- Disparador de riesgo: calcula el costo del software y la multa por pagar en caso de cometer un error al generar CFDIs, teniendo en cuenta la probabilidad de error.
 
-    - Disparador de oportunidad: calcula la ganancia que el negocio tiene sin implementar pagos con tarjeta y la ganancia que puede recuperar si se digitaliza e implementa este método de pago, con su respectiva comisión por pago con tarjeta y el aumento de ventas por la implementación del método mencionado. 
+- Disparador de oportunidad: calcula la ganancia que el negocio tiene sin implementar pagos con tarjeta y la ganancia que puede recuperar si se digitaliza e implementa este método de pago, con su respectiva comisión por pago con tarjeta y el aumento de ventas por la implementación del método mencionado. 
 
 
 
@@ -62,4 +62,5 @@ ________________________________________________________________________________
 - Añadir los módulos de Restaurantes y Servicios.
 - Desarrollar y pulir los cálculos para obtener un mejor resultado.
 - Desarrollar y mejorar la interfaz temporal hecha con Streamlit.
+
 
